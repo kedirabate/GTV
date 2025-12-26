@@ -1,0 +1,5 @@
+{
+  "name": "Global Truth & Verification AI",
+  "description": "An AI-powered application to help users easily verify the authenticity of files like images, videos, and documents. It provides a trust score, a detailed explanation, and a downloadable report to combat misinformation and falsification.",
+  "requestFramePermissions": []
+}
